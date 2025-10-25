@@ -1,4 +1,4 @@
-## 🚀 Installation Guide
+## Installation Guide
 
 ### Prerequisites
 
@@ -11,7 +11,7 @@ Pastikan sistem Anda sudah terinstall:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bookstore-backend.git
+git clone https://github.com/Inno013/bookstore-backend.git
 cd bookstore-backend
 ```
 
